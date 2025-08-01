@@ -125,7 +125,7 @@ All financial and operational tables are linked to `periods`. Operational tables
           │
           ▼
  ┌────────────────────────┐
- │ FastAPI Backend (ask/) │
+ │ FastAPI Backend        │
  └────────┬───────────────┘
           ▼
  ┌─────────────────────────────────────┐

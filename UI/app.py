@@ -5,7 +5,7 @@ import streamlit as st
 st.title("Text-to-SQL Assistant ")
 question = st.text_input("Question", value="What is the revenue per ton of cargo in 2023-24?")
 
-if st.button("Send"):
+if st.button("Generate Answer"):
     payload = {
         "question": question,
         "return_table": True,
