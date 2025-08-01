@@ -1,0 +1,433 @@
+﻿Port,State,Commodity,Entity,Type,Period,Value
+Mundra,Crude,SPM,IOCL,Tied,2024-25,6.739022476
+Mundra,Crude,SPM,HMEL,Tied,2024-25,13.18110724
+Tuna,Crude,SPM,IOCL,Tied,2024-25,0
+Tuna,Crude,SPM,HMEL,Tied,2024-25,0
+Hazira,Crude,SPM,IOCL,Tied,2024-25,0
+Hazira,Crude,SPM,HMEL,Tied,2024-25,0
+Dighi,Crude,SPM,IOCL,Tied,2024-25,0
+Dighi,Crude,SPM,HMEL,Tied,2024-25,0
+Mundra,Crude,SPM,IOCL,Tied,2023-24,6.217619798
+Mundra,Crude,SPM,HMEL,Tied,2023-24,12.54102757
+Tuna,Crude,SPM,IOCL,Tied,2023-24,0
+Tuna,Crude,SPM,HMEL,Tied,2023-24,0
+Hazira,Crude,SPM,IOCL,Tied,2023-24,0
+Hazira,Crude,SPM,HMEL,Tied,2023-24,0
+Dighi,Crude,SPM,IOCL,Tied,2023-24,0
+Dighi,Crude,SPM,HMEL,Tied,2023-24,0
+Mundra,Crude,SPM,IOCL,Tied,2022-23,5.980549513
+Mundra,Crude,SPM,HMEL,Tied,2022-23,13.05694848
+Tuna,Crude,SPM,IOCL,Tied,2022-23,0
+Tuna,Crude,SPM,HMEL,Tied,2022-23,0
+Hazira,Crude,SPM,IOCL,Tied,2022-23,0
+Hazira,Crude,SPM,HMEL,Tied,2022-23,0
+Dighi,Crude,SPM,IOCL,Tied,2022-23,0
+Dighi,Crude,SPM,HMEL,Tied,2022-23,0
+Mundra,Crude,SPM,IOCL,Tied,2021-22,6.992478796
+Mundra,Crude,SPM,HMEL,Tied,2021-22,13.14594737
+Tuna,Crude,SPM,IOCL,Tied,2021-22,0
+Tuna,Crude,SPM,HMEL,Tied,2021-22,0
+Hazira,Crude,SPM,IOCL,Tied,2021-22,0
+Hazira,Crude,SPM,HMEL,Tied,2021-22,0
+Dighi,Crude,SPM,IOCL,Tied,2021-22,0
+Dighi,Crude,SPM,HMEL,Tied,2021-22,0
+Mundra,Dry,Agri Products,N/A,Mkt,2024-25,1.401761388
+Tuna,Dry,Agri Products,N/A,Mkt,2024-25,1.846607929
+Hazira,Dry,Agri Products,N/A,Mkt,2024-25,0.25792892
+Dighi,Dry,Agri Products,N/A,Mkt,2024-25,0
+Mundra,Dry,Agri Products,N/A,Mkt,2023-24,0.895667186
+Tuna,Dry,Agri Products,N/A,Mkt,2023-24,1.634274322
+Hazira,Dry,Agri Products,N/A,Mkt,2023-24,0.356594724
+Dighi,Dry,Agri Products,N/A,Mkt,2023-24,0
+Mundra,Dry,Agri Products,N/A,Mkt,2022-23,1.474558469
+Tuna,Dry,Agri Products,N/A,Mkt,2022-23,1.606805293
+Hazira,Dry,Agri Products,N/A,Mkt,2022-23,1.228819338
+Dighi,Dry,Agri Products,N/A,Mkt,2022-23,0.02342185
+Mundra,Dry,Agri Products,N/A,Mkt,2021-22,0.624147638
+Tuna,Dry,Agri Products,N/A,Mkt,2021-22,0.179947837
+Hazira,Dry,Agri Products,N/A,Mkt,2021-22,0.969687665
+Dighi,Dry,Agri Products,N/A,Mkt,2021-22,0
+Mundra,Dry,Coal,AEL,Group,2024-25,1.855553
+Mundra,Dry,Coal,APL,Tied,2024-25,10.526931
+Mundra,Dry,Coal,CGPL,Tied,2024-25,6.2672594
+Mundra,Dry,Coal,APGENCO,Tied,2024-25,0
+Mundra,Dry,Coal,SEMBCORP,Tied,2024-25,0
+Mundra,Dry,Coal,Ispat (RINL),Tied,2024-25,0
+Mundra,Dry,Coal,RIL,Tied,2024-25,0
+Mundra,Dry,Coal,JSW,Mkt,2024-25,0
+Mundra,Dry,Coal,TSL,Tied,2024-25,0
+Mundra,Dry,Coal,SAIL,Tied,2024-25,0
+Mundra,Dry,Coal,Others Coal*,Mkt,2024-25,2.197832402
+Mundra,Dry,Coal,Different Coal,N/A,2024-25,10.74713457
+Tuna,Dry,Coal,AEL,Group,2024-25,0.832358347
+Tuna,Dry,Coal,APL,Tied,2024-25,0
+Tuna,Dry,Coal,CGPL,Tied,2024-25,0
+Tuna,Dry,Coal,APGENCO,Tied,2024-25,0
+Tuna,Dry,Coal,SEMBCORP,Tied,2024-25,0
+Tuna,Dry,Coal,Ispat (RINL),Tied,2024-25,0
+Tuna,Dry,Coal,RIL,Tied,2024-25,0
+Tuna,Dry,Coal,JSW,Mkt,2024-25,0
+Tuna,Dry,Coal,TSL,Tied,2024-25,0
+Tuna,Dry,Coal,SAIL,Tied,2024-25,0
+Tuna,Dry,Coal,Others Coal*,Mkt,2024-25,3.921769499
+Tuna,Dry,Coal,Different Coal,N/A,2024-25,2.019631337
+Hazira,Dry,Coal,AEL,Group,2024-25,4.379524
+Hazira,Dry,Coal,APL,Tied,2024-25,0
+Hazira,Dry,Coal,CGPL,Tied,2024-25,0
+Hazira,Dry,Coal,APGENCO,Tied,2024-25,0
+Hazira,Dry,Coal,SEMBCORP,Tied,2024-25,0
+Hazira,Dry,Coal,Ispat (RINL),Tied,2024-25,0
+Hazira,Dry,Coal,RIL,Tied,2024-25,1.326914
+Hazira,Dry,Coal,JSW,Mkt,2024-25,0
+Hazira,Dry,Coal,TSL,Tied,2024-25,0
+Hazira,Dry,Coal,SAIL,Tied,2024-25,0
+Hazira,Dry,Coal,Others Coal*,Mkt,2024-25,0
+Hazira,Dry,Coal,Different Coal,N/A,2024-25,2.166197
+Dighi,Dry,Coal,AEL,Group,2024-25,0
+Dighi,Dry,Coal,APL,Tied,2024-25,0
+Dighi,Dry,Coal,CGPL,Tied,2024-25,0
+Dighi,Dry,Coal,APGENCO,Tied,2024-25,0
+Dighi,Dry,Coal,SEMBCORP,Tied,2024-25,0
+Dighi,Dry,Coal,Ispat (RINL),Tied,2024-25,0
+Dighi,Dry,Coal,RIL,Tied,2024-25,0
+Dighi,Dry,Coal,JSW,Mkt,2024-25,0
+Dighi,Dry,Coal,TSL,Tied,2024-25,0
+Dighi,Dry,Coal,SAIL,Tied,2024-25,0
+Dighi,Dry,Coal,Others Coal*,Mkt,2024-25,0
+Dighi,Dry,Coal,Different Coal,N/A,2024-25,0
+Mundra,Dry,Coal,AEL,Group,2023-24,4.3270157
+Mundra,Dry,Coal,APL,Tied,2023-24,13.223905
+Mundra,Dry,Coal,CGPL,Tied,2023-24,8.036929277
+Mundra,Dry,Coal,APGENCO,Tied,2023-24,0
+Mundra,Dry,Coal,SEMBCORP,Tied,2023-24,0
+Mundra,Dry,Coal,Ispat (RINL),Tied,2023-24,0
+Mundra,Dry,Coal,RIL,Tied,2023-24,0
+Mundra,Dry,Coal,JSW,Mkt,2023-24,0
+Mundra,Dry,Coal,TSL,Tied,2023-24,0
+Mundra,Dry,Coal,SAIL,Tied,2023-24,0
+Mundra,Dry,Coal,Others Coal*,Mkt,2023-24,4.662061461
+Mundra,Dry,Coal,Different Coal,N/A,2023-24,0
+Tuna,Dry,Coal,AEL,Group,2023-24,1.14698953
+Tuna,Dry,Coal,APL,Tied,2023-24,0
+Tuna,Dry,Coal,CGPL,Tied,2023-24,0
+Tuna,Dry,Coal,APGENCO,Tied,2023-24,0
+Tuna,Dry,Coal,SEMBCORP,Tied,2023-24,0
+Tuna,Dry,Coal,Ispat (RINL),Tied,2023-24,0
+Tuna,Dry,Coal,RIL,Tied,2023-24,0
+Tuna,Dry,Coal,JSW,Mkt,2023-24,0
+Tuna,Dry,Coal,TSL,Tied,2023-24,0
+Tuna,Dry,Coal,SAIL,Tied,2023-24,0
+Tuna,Dry,Coal,Others Coal*,Mkt,2023-24,5.790748323
+Tuna,Dry,Coal,Different Coal,N/A,2023-24,0
+Hazira,Dry,Coal,AEL,Group,2023-24,4.725253
+Hazira,Dry,Coal,APL,Tied,2023-24,0.526596
+Hazira,Dry,Coal,CGPL,Tied,2023-24,0
+Hazira,Dry,Coal,APGENCO,Tied,2023-24,0
+Hazira,Dry,Coal,SEMBCORP,Tied,2023-24,0
+Hazira,Dry,Coal,Ispat (RINL),Tied,2023-24,0
+Hazira,Dry,Coal,RIL,Tied,2023-24,1.610203668
+Hazira,Dry,Coal,JSW,Mkt,2023-24,0.188738
+Hazira,Dry,Coal,TSL,Tied,2023-24,0
+Hazira,Dry,Coal,SAIL,Tied,2023-24,0
+Hazira,Dry,Coal,Others Coal*,Mkt,2023-24,0
+Hazira,Dry,Coal,Different Coal,N/A,2023-24,0
+Dighi,Dry,Coal,AEL,Group,2023-24,0.107
+Dighi,Dry,Coal,APL,Tied,2023-24,0
+Dighi,Dry,Coal,CGPL,Tied,2023-24,0
+Dighi,Dry,Coal,APGENCO,Tied,2023-24,0
+Dighi,Dry,Coal,SEMBCORP,Tied,2023-24,0
+Dighi,Dry,Coal,Ispat (RINL),Tied,2023-24,0
+Dighi,Dry,Coal,RIL,Tied,2023-24,0
+Dighi,Dry,Coal,JSW,Mkt,2023-24,0
+Dighi,Dry,Coal,TSL,Tied,2023-24,0
+Dighi,Dry,Coal,SAIL,Tied,2023-24,0
+Dighi,Dry,Coal,Others Coal*,Mkt,2023-24,0
+Dighi,Dry,Coal,Different Coal,N/A,2023-24,0
+Mundra,Dry,Coal,AEL,Group,2022-23,6.184740799
+Mundra,Dry,Coal,APL,Tied,2022-23,5.56538
+Mundra,Dry,Coal,CGPL,Tied,2022-23,4.933449847
+Mundra,Dry,Coal,APGENCO,Tied,2022-23,0
+Mundra,Dry,Coal,SEMBCORP,Tied,2022-23,0
+Mundra,Dry,Coal,Ispat (RINL),Tied,2022-23,0
+Mundra,Dry,Coal,RIL,Tied,2022-23,0
+Mundra,Dry,Coal,JSW,Mkt,2022-23,0
+Mundra,Dry,Coal,TSL,Tied,2022-23,0
+Mundra,Dry,Coal,SAIL,Tied,2022-23,0
+Mundra,Dry,Coal,Others Coal*,Mkt,2022-23,2.832988318
+Mundra,Dry,Coal,Different Coal,N/A,2022-23,0
+Tuna,Dry,Coal,AEL,Group,2022-23,1.485841
+Tuna,Dry,Coal,APL,Tied,2022-23,0
+Tuna,Dry,Coal,CGPL,Tied,2022-23,0
+Tuna,Dry,Coal,APGENCO,Tied,2022-23,0
+Tuna,Dry,Coal,SEMBCORP,Tied,2022-23,0
+Tuna,Dry,Coal,Ispat (RINL),Tied,2022-23,0
+Tuna,Dry,Coal,RIL,Tied,2022-23,0
+Tuna,Dry,Coal,JSW,Mkt,2022-23,0
+Tuna,Dry,Coal,TSL,Tied,2022-23,0
+Tuna,Dry,Coal,SAIL,Tied,2022-23,0
+Tuna,Dry,Coal,Others Coal*,Mkt,2022-23,4.019080043
+Tuna,Dry,Coal,Different Coal,N/A,2022-23,0
+Hazira,Dry,Coal,AEL,Group,2022-23,4.803977
+Hazira,Dry,Coal,APL,Tied,2022-23,0
+Hazira,Dry,Coal,CGPL,Tied,2022-23,0
+Hazira,Dry,Coal,APGENCO,Tied,2022-23,0
+Hazira,Dry,Coal,SEMBCORP,Tied,2022-23,0
+Hazira,Dry,Coal,Ispat (RINL),Tied,2022-23,0
+Hazira,Dry,Coal,RIL,Tied,2022-23,1.802737258
+Hazira,Dry,Coal,JSW,Mkt,2022-23,0
+Hazira,Dry,Coal,TSL,Tied,2022-23,0
+Hazira,Dry,Coal,SAIL,Tied,2022-23,0
+Hazira,Dry,Coal,Others Coal*,Mkt,2022-23,0.045
+Hazira,Dry,Coal,Different Coal,N/A,2022-23,0
+Dighi,Dry,Coal,AEL,Group,2022-23,0.12
+Dighi,Dry,Coal,APL,Tied,2022-23,0
+Dighi,Dry,Coal,CGPL,Tied,2022-23,0
+Dighi,Dry,Coal,APGENCO,Tied,2022-23,0
+Dighi,Dry,Coal,SEMBCORP,Tied,2022-23,0
+Dighi,Dry,Coal,Ispat (RINL),Tied,2022-23,0
+Dighi,Dry,Coal,RIL,Tied,2022-23,0
+Dighi,Dry,Coal,JSW,Mkt,2022-23,0
+Dighi,Dry,Coal,TSL,Tied,2022-23,0
+Dighi,Dry,Coal,SAIL,Tied,2022-23,0
+Dighi,Dry,Coal,Others Coal*,Mkt,2022-23,0
+Dighi,Dry,Coal,Different Coal,N/A,2022-23,0
+Mundra,Dry,Coal,AEL,Group,2021-22,3.38382
+Mundra,Dry,Coal,APL,Tied,2021-22,6.009158
+Mundra,Dry,Coal,CGPL,Tied,2021-22,4.36582386
+Mundra,Dry,Coal,APGENCO,Tied,2021-22,0
+Mundra,Dry,Coal,SEMBCORP,Tied,2021-22,0
+Mundra,Dry,Coal,Ispat (RINL),Tied,2021-22,0
+Mundra,Dry,Coal,RIL,Tied,2021-22,0
+Mundra,Dry,Coal,JSW,Mkt,2021-22,0
+Mundra,Dry,Coal,TSL,Tied,2021-22,0
+Mundra,Dry,Coal,SAIL,Tied,2021-22,0
+Mundra,Dry,Coal,Others Coal*,Mkt,2021-22,4.094016556
+Mundra,Dry,Coal,Different Coal,N/A,2021-22,0
+Tuna,Dry,Coal,AEL,Group,2021-22,1.61588081
+Tuna,Dry,Coal,APL,Tied,2021-22,0
+Tuna,Dry,Coal,CGPL,Tied,2021-22,0
+Tuna,Dry,Coal,APGENCO,Tied,2021-22,0
+Tuna,Dry,Coal,SEMBCORP,Tied,2021-22,0
+Tuna,Dry,Coal,Ispat (RINL),Tied,2021-22,0
+Tuna,Dry,Coal,RIL,Tied,2021-22,0
+Tuna,Dry,Coal,JSW,Mkt,2021-22,0
+Tuna,Dry,Coal,TSL,Tied,2021-22,0
+Tuna,Dry,Coal,SAIL,Tied,2021-22,0
+Tuna,Dry,Coal,Others Coal*,Mkt,2021-22,3.881875478
+Tuna,Dry,Coal,Different Coal,N/A,2021-22,0
+Hazira,Dry,Coal,AEL,Group,2021-22,4.713062
+Hazira,Dry,Coal,APL,Tied,2021-22,0
+Hazira,Dry,Coal,CGPL,Tied,2021-22,0
+Hazira,Dry,Coal,APGENCO,Tied,2021-22,0
+Hazira,Dry,Coal,SEMBCORP,Tied,2021-22,0
+Hazira,Dry,Coal,Ispat (RINL),Tied,2021-22,0
+Hazira,Dry,Coal,RIL,Tied,2021-22,1.889405
+Hazira,Dry,Coal,JSW,Mkt,2021-22,0
+Hazira,Dry,Coal,TSL,Tied,2021-22,0
+Hazira,Dry,Coal,SAIL,Tied,2021-22,0
+Hazira,Dry,Coal,Others Coal*,Mkt,2021-22,0
+Hazira,Dry,Coal,Different Coal,N/A,2021-22,0
+Dighi,Dry,Coal,AEL,Group,2021-22,0.105
+Dighi,Dry,Coal,APL,Tied,2021-22,0
+Dighi,Dry,Coal,CGPL,Tied,2021-22,0
+Dighi,Dry,Coal,APGENCO,Tied,2021-22,0
+Dighi,Dry,Coal,SEMBCORP,Tied,2021-22,0
+Dighi,Dry,Coal,Ispat (RINL),Tied,2021-22,0
+Dighi,Dry,Coal,RIL,Tied,2021-22,0
+Dighi,Dry,Coal,JSW,Mkt,2021-22,0
+Dighi,Dry,Coal,TSL,Tied,2021-22,0
+Dighi,Dry,Coal,SAIL,Tied,2021-22,0
+Dighi,Dry,Coal,Others Coal*,Mkt,2021-22,0
+Dighi,Dry,Coal,Different Coal,N/A,2021-22,0
+Mundra,Dry,Fertilizer,N/A,Mkt,2024-25,3.494004078
+Tuna,Dry,Fertilizer,N/A,Mkt,2024-25,0.234901311
+Hazira,Dry,Fertilizer,N/A,Mkt,2024-25,0
+Dighi,Dry,Fertilizer,N/A,Mkt,2024-25,0
+Mundra,Dry,Fertilizer,N/A,Mkt,2023-24,3.672224801
+Tuna,Dry,Fertilizer,N/A,Mkt,2023-24,0.491050601
+Hazira,Dry,Fertilizer,N/A,Mkt,2023-24,0.11583094
+Dighi,Dry,Fertilizer,N/A,Mkt,2023-24,0
+Mundra,Dry,Fertilizer,N/A,Mkt,2022-23,4.467874928
+Tuna,Dry,Fertilizer,N/A,Mkt,2022-23,0.622677379
+Hazira,Dry,Fertilizer,N/A,Mkt,2022-23,0.155469998
+Dighi,Dry,Fertilizer,N/A,Mkt,2022-23,0
+Mundra,Dry,Fertilizer,N/A,Mkt,2021-22,4.574246939
+Tuna,Dry,Fertilizer,N/A,Mkt,2021-22,0.821036959
+Hazira,Dry,Fertilizer,N/A,Mkt,2021-22,0.391259596
+Dighi,Dry,Fertilizer,N/A,Mkt,2021-22,0
+Mundra,Dry,Minerals,N/A,Mkt,2024-25,1.65411266
+Tuna,Dry,Minerals,N/A,Mkt,2024-25,0.495298
+Hazira,Dry,Minerals,N/A,Mkt,2024-25,2.116250814
+Dighi,Dry,Minerals,N/A,Mkt,2024-25,0
+Mundra,Dry,Minerals,N/A,Mkt,2023-24,1.037180875
+Tuna,Dry,Minerals,N/A,Mkt,2023-24,0.61361
+Hazira,Dry,Minerals,N/A,Mkt,2023-24,2.17304348
+Dighi,Dry,Minerals,N/A,Mkt,2023-24,0.0709213
+Mundra,Dry,Minerals,N/A,Mkt,2022-23,0.66771052
+Tuna,Dry,Minerals,N/A,Mkt,2022-23,0.035779
+Hazira,Dry,Minerals,N/A,Mkt,2022-23,1.65693628
+Dighi,Dry,Minerals,N/A,Mkt,2022-23,0
+Mundra,Dry,Minerals,N/A,Mkt,2021-22,1.205064216
+Tuna,Dry,Minerals,N/A,Mkt,2021-22,0
+Hazira,Dry,Minerals,N/A,Mkt,2021-22,1.956127
+Dighi,Dry,Minerals,N/A,Mkt,2021-22,0.0485
+Mundra,Dry,Others,N/A,Mkt,2024-25,1.752418
+Tuna,Dry,Others,N/A,Mkt,2024-25,0
+Hazira,Dry,Others,N/A,Mkt,2024-25,1.062484316
+Dighi,Dry,Others,N/A,Mkt,2024-25,0.10365382
+Mundra,Dry,Others,N/A,Mkt,2023-24,2.100467
+Tuna,Dry,Others,N/A,Mkt,2023-24,0.05825
+Hazira,Dry,Others,N/A,Mkt,2023-24,0.299949139
+Dighi,Dry,Others,N/A,Mkt,2023-24,0.07326873
+Mundra,Dry,Others,N/A,Mkt,2022-23,1.860358
+Tuna,Dry,Others,N/A,Mkt,2022-23,0.38586
+Hazira,Dry,Others,N/A,Mkt,2022-23,1.360214984
+Dighi,Dry,Others,N/A,Mkt,2022-23,0
+Mundra,Dry,Others,N/A,Mkt,2021-22,3.46309967
+Tuna,Dry,Others,N/A,Mkt,2021-22,0.42296
+Hazira,Dry,Others,N/A,Mkt,2021-22,1.549955839
+Dighi,Dry,Others,N/A,Mkt,2021-22,0
+Mundra,Dry,Steel & Projects Cargo,N/A,Mkt,2024-25,1.9711299
+Tuna,Dry,Steel & Projects Cargo,N/A,Mkt,2024-25,0
+Hazira,Dry,Steel & Projects Cargo,N/A,Mkt,2024-25,0.021281018
+Dighi,Dry,Steel & Projects Cargo,N/A,Mkt,2024-25,0.143929067
+Mundra,Dry,Steel & Projects Cargo,N/A,Mkt,2023-24,1.313275881
+Tuna,Dry,Steel & Projects Cargo,N/A,Mkt,2023-24,0
+Hazira,Dry,Steel & Projects Cargo,N/A,Mkt,2023-24,0.054742914
+Dighi,Dry,Steel & Projects Cargo,N/A,Mkt,2023-24,0.184657291
+Mundra,Dry,Steel & Projects Cargo,N/A,Mkt,2022-23,1.170630327
+Tuna,Dry,Steel & Projects Cargo,N/A,Mkt,2022-23,0
+Hazira,Dry,Steel & Projects Cargo,N/A,Mkt,2022-23,0.050113594
+Dighi,Dry,Steel & Projects Cargo,N/A,Mkt,2022-23,0.059111805
+Mundra,Dry,Steel & Projects Cargo,N/A,Mkt,2021-22,0.895036162
+Tuna,Dry,Steel & Projects Cargo,N/A,Mkt,2021-22,0
+Hazira,Dry,Steel & Projects Cargo,N/A,Mkt,2021-22,0.048483856
+Dighi,Dry,Steel & Projects Cargo,N/A,Mkt,2021-22,0
+Mundra,Gas,LNG,N/A,Tied,2024-25,0.912021185
+Tuna,Gas,LNG,N/A,Tied,2024-25,0
+Hazira,Gas,LNG,N/A,Tied,2024-25,0
+Dighi,Gas,LNG,N/A,Tied,2024-25,0
+Mundra,Gas,LNG,N/A,Tied,2023-24,0.697599998
+Tuna,Gas,LNG,N/A,Tied,2023-24,0
+Hazira,Gas,LNG,N/A,Tied,2023-24,0
+Dighi,Gas,LNG,N/A,Tied,2023-24,0
+Mundra,Gas,LNG,N/A,Tied,2022-23,0.829690414
+Tuna,Gas,LNG,N/A,Tied,2022-23,0
+Hazira,Gas,LNG,N/A,Tied,2022-23,0
+Dighi,Gas,LNG,N/A,Tied,2022-23,0
+Mundra,Gas,LNG,N/A,Tied,2021-22,0.93348889
+Tuna,Gas,LNG,N/A,Tied,2021-22,0
+Hazira,Gas,LNG,N/A,Tied,2021-22,0
+Dighi,Gas,LNG,N/A,Tied,2021-22,0
+Mundra,Gas,LPG,N/A,Tied,2024-25,1.02273158
+Tuna,Gas,LPG,N/A,Tied,2024-25,0
+Hazira,Gas,LPG,N/A,Tied,2024-25,0
+Dighi,Gas,LPG,N/A,Tied,2024-25,0
+Mundra,Gas,LPG,N/A,Tied,2023-24,0.882847084
+Tuna,Gas,LPG,N/A,Tied,2023-24,0
+Hazira,Gas,LPG,N/A,Tied,2023-24,0
+Dighi,Gas,LPG,N/A,Tied,2023-24,0
+Mundra,Gas,LPG,N/A,Tied,2022-23,0.832723927
+Tuna,Gas,LPG,N/A,Tied,2022-23,0
+Hazira,Gas,LPG,N/A,Tied,2022-23,0
+Dighi,Gas,LPG,N/A,Tied,2022-23,0
+Mundra,Gas,LPG,N/A,Tied,2021-22,0.550247915
+Tuna,Gas,LPG,N/A,Tied,2021-22,0
+Hazira,Gas,LPG,N/A,Tied,2021-22,0
+Dighi,Gas,LPG,N/A,Tied,2021-22,0
+Mundra,Gas,STS,N/A,Mkt,2024-25,1.300224858
+Tuna,Gas,STS,N/A,Mkt,2024-25,0
+Hazira,Gas,STS,N/A,Mkt,2024-25,0
+Dighi,Gas,STS,N/A,Mkt,2024-25,0
+Mundra,Gas,STS,N/A,Mkt,2023-24,1.580618212
+Tuna,Gas,STS,N/A,Mkt,2023-24,0
+Hazira,Gas,STS,N/A,Mkt,2023-24,0
+Dighi,Gas,STS,N/A,Mkt,2023-24,0
+Mundra,Gas,STS,N/A,Mkt,2022-23,0.355877157
+Tuna,Gas,STS,N/A,Mkt,2022-23,0
+Hazira,Gas,STS,N/A,Mkt,2022-23,0
+Dighi,Gas,STS,N/A,Mkt,2022-23,0
+Mundra,Gas,STS,N/A,Mkt,2021-22,0
+Tuna,Gas,STS,N/A,Mkt,2021-22,0
+Hazira,Gas,STS,N/A,Mkt,2021-22,0
+Dighi,Gas,STS,N/A,Mkt,2021-22,0
+Mundra,Liquid,Bunkering,N/A,Mkt,2024-25,0.221842013
+Tuna,Liquid,Bunkering,N/A,Mkt,2024-25,0
+Hazira,Liquid,Bunkering,N/A,Mkt,2024-25,0
+Dighi,Liquid,Bunkering,N/A,Mkt,2024-25,0
+Mundra,Liquid,Bunkering,N/A,Mkt,2023-24,0.17629937
+Tuna,Liquid,Bunkering,N/A,Mkt,2023-24,0
+Hazira,Liquid,Bunkering,N/A,Mkt,2023-24,0
+Dighi,Liquid,Bunkering,N/A,Mkt,2023-24,0.009597952
+Mundra,Liquid,Bunkering,N/A,Mkt,2022-23,0.14236543
+Tuna,Liquid,Bunkering,N/A,Mkt,2022-23,0
+Hazira,Liquid,Bunkering,N/A,Mkt,2022-23,0
+Dighi,Liquid,Bunkering,N/A,Mkt,2022-23,0
+Mundra,Liquid,Bunkering,N/A,Mkt,2021-22,0.131175837
+Tuna,Liquid,Bunkering,N/A,Mkt,2021-22,0
+Hazira,Liquid,Bunkering,N/A,Mkt,2021-22,0
+Dighi,Liquid,Bunkering,N/A,Mkt,2021-22,0
+Mundra,Liquid,Chemicals,N/A,Mkt,2024-25,0.427063946
+Tuna,Liquid,Chemicals,N/A,Mkt,2024-25,0
+Hazira,Liquid,Chemicals,N/A,Mkt,2024-25,3.467039374
+Dighi,Liquid,Chemicals,N/A,Mkt,2024-25,0.12991245
+Mundra,Liquid,Chemicals,N/A,Mkt,2023-24,0.341386685
+Tuna,Liquid,Chemicals,N/A,Mkt,2023-24,0
+Hazira,Liquid,Chemicals,N/A,Mkt,2023-24,3.196450413
+Dighi,Liquid,Chemicals,N/A,Mkt,2023-24,0.099431046
+Mundra,Liquid,Chemicals,N/A,Mkt,2022-23,0.422354846
+Tuna,Liquid,Chemicals,N/A,Mkt,2022-23,0
+Hazira,Liquid,Chemicals,N/A,Mkt,2022-23,3.436048331
+Dighi,Liquid,Chemicals,N/A,Mkt,2022-23,0.038547
+Mundra,Liquid,Chemicals,N/A,Mkt,2021-22,0.506799446
+Tuna,Liquid,Chemicals,N/A,Mkt,2021-22,0
+Hazira,Liquid,Chemicals,N/A,Mkt,2021-22,3.431351586
+Dighi,Liquid,Chemicals,N/A,Mkt,2021-22,0.0738605
+Mundra,Liquid,Edible Oil,N/A,Mkt,2024-25,1.135420502
+Tuna,Liquid,Edible Oil,N/A,Mkt,2024-25,0
+Hazira,Liquid,Edible Oil,N/A,Mkt,2024-25,0.540655809
+Dighi,Liquid,Edible Oil,N/A,Mkt,2024-25,0
+Mundra,Liquid,Edible Oil,N/A,Mkt,2023-24,0.972141181
+Tuna,Liquid,Edible Oil,N/A,Mkt,2023-24,0
+Hazira,Liquid,Edible Oil,N/A,Mkt,2023-24,0.482918793
+Dighi,Liquid,Edible Oil,N/A,Mkt,2023-24,0
+Mundra,Liquid,Edible Oil,N/A,Mkt,2022-23,1.09784189
+Tuna,Liquid,Edible Oil,N/A,Mkt,2022-23,0
+Hazira,Liquid,Edible Oil,N/A,Mkt,2022-23,0.459884855
+Dighi,Liquid,Edible Oil,N/A,Mkt,2022-23,0
+Mundra,Liquid,Edible Oil,N/A,Mkt,2021-22,1.080137137
+Tuna,Liquid,Edible Oil,N/A,Mkt,2021-22,0
+Hazira,Liquid,Edible Oil,N/A,Mkt,2021-22,0.362597704
+Dighi,Liquid,Edible Oil,N/A,Mkt,2021-22,0
+Mundra,Liquid,POL,N/A,Mkt,2024-25,0.820686497
+Tuna,Liquid,POL,N/A,Mkt,2024-25,0
+Hazira,Liquid,POL,N/A,Mkt,2024-25,0.587444861
+Dighi,Liquid,POL,N/A,Mkt,2024-25,0
+Mundra,Liquid,POL,N/A,Mkt,2023-24,0.689977795
+Tuna,Liquid,POL,N/A,Mkt,2023-24,0
+Hazira,Liquid,POL,N/A,Mkt,2023-24,0.707693185
+Dighi,Liquid,POL,N/A,Mkt,2023-24,0.004246028
+Mundra,Liquid,POL,N/A,Mkt,2022-23,0.480174381
+Tuna,Liquid,POL,N/A,Mkt,2022-23,0
+Hazira,Liquid,POL,N/A,Mkt,2022-23,1.061327128
+Dighi,Liquid,POL,N/A,Mkt,2022-23,0
+Mundra,Liquid,POL,N/A,Mkt,2021-22,0.609201975
+Tuna,Liquid,POL,N/A,Mkt,2021-22,0
+Hazira,Liquid,POL,N/A,Mkt,2021-22,0.40331437
+Dighi,Liquid,POL,N/A,Mkt,2021-22,0
+Mundra,POL,POL,HPCL,Tied,2024-25,5.956934808
+Tuna,POL,POL,HPCL,Tied,2024-25,0
+Hazira,POL,POL,HPCL,Tied,2024-25,0
+Dighi,POL,POL,HPCL,Tied,2024-25,0
+Mundra,POL,POL,HPCL,Tied,2023-24,4.679545671
+Tuna,POL,POL,HPCL,Tied,2023-24,0
+Hazira,POL,POL,HPCL,Tied,2023-24,0
+Dighi,POL,POL,HPCL,Tied,2023-24,0
+Mundra,POL,POL,HPCL,Tied,2022-23,3.508151083
+Tuna,POL,POL,HPCL,Tied,2022-23,0
+Hazira,POL,POL,HPCL,Tied,2022-23,0
+Dighi,POL,POL,HPCL,Tied,2022-23,0
+Mundra,POL,POL,HPCL,Tied,2021-22,2.361605967
+Tuna,POL,POL,HPCL,Tied,2021-22,0
+Hazira,POL,POL,HPCL,Tied,2021-22,0
+Dighi,POL,POL,HPCL,Tied,2021-22,0

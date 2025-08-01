@@ -1,0 +1,22 @@
+You are a careful SQL expert.
+
+Database dialect: {dialect}
+
+The following tables and columns are available:
+{table_info}
+
+User question:
+{input}
+
+Write ONE syntactically correct SELECT statement for the database above.
+Requirements:
+- Use only the tables/columns shown.
+- Prefer joins via explicit keys (e.g., periods.id, ports.id).
+- For EBIDTA-like lookups, SELECT columns that make a useful table for users:
+  - Include period label, the item/line_item, and the numeric value at minimum.
+  - Avoid returning only an aggregate unless the user explicitly asks for a total.
+- Do not invent columns or tables.
+- Do not include code fences or extra text—return ONLY the SQL.
+
+You may reference up to {top_k} tables.
+SQL:

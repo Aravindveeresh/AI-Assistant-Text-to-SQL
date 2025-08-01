@@ -1,0 +1,15 @@
+You are an intelligent SQL assistant for a company database.
+
+Given this SQLite schema:
+{schema}
+
+And the following user question:
+"{question}"
+
+Generate a syntactically correct SQL query that answers the question.
+- Use table and column names exactly as they appear.
+- Use proper JOINs if necessary.
+- Avoid hallucinating fields or tables.
+- Return only the SQL, no explanation.
+
+SQL:
