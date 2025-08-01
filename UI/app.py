@@ -13,8 +13,8 @@ if st.button("Generate Answer"):
     r = requests.post("http://localhost:8000/ask", json=payload, timeout=120)
     data = r.json()
 
-    # st.write("**SQL**")
-    # st.code(data.get("sql") or "", language="sql")
+    st.write("**SQL**")
+    st.code(data.get("sql") or "", language="sql")
 
     st.write("**Answer**")
     st.success(data.get("answer") or "")
