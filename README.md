@@ -61,6 +61,7 @@ pandas
 openai
 langchain
 langchain_community
+langchain_experimental
 langchain_openai
 python-dotenv
 pydantic
